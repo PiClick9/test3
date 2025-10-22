@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6654],{56654:(e,t,l)=>{l.r(t),l.d(t,{default:()=>a});var s=l(6029),i=l(4259);let a=e=>{let{data:{title:t,content:l,style:a,isHotTopic:n,widgetIdentifier:_}}=e;return l.length>0?(0,s.jsx)(i.dk,{style:a,title:t,content:l,isHotTopic:n,className:"hm-link__list__articles",widgetIdentifier:_}):null}}}]);

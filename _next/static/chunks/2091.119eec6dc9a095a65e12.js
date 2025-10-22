@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2091],{32091:(e,s,a)=>{a.r(s),a.d(s,{default:()=>d});var l=a(6029),u=a(4259),t=a(72011);let d=e=>{let{data:{htmlId:s,htmlClassName:a,renderMode:d}}=e;return!(0,t.useAmp)()&&d===u.G9.DEFAULT&&(s||a)?(0,l.jsx)("div",{id:s,className:a}):null}}}]);
